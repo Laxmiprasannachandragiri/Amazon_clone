@@ -1,34 +1,33 @@
-# 🛒 Amazon Clone Website
+# 🛍️ Amazon Clone (HTML & CSS Only)
 
-A fully responsive e-commerce homepage inspired by Amazon. Built using only **HTML and CSS**, this project focuses on layout, responsiveness, and basic frontend structure.
+A static frontend replica of Amazon's homepage built using only **HTML** and **CSS**. This project showcases layout building, flexbox usage, and visual styling techniques.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 Features
+
+- Header with Amazon logo, search bar, and navigation
+- Static product display cards
+- Promotional banner and category sections
+- Responsive grid layout with media queries
+- Footer similar to Amazon's original design
+
+---
+
+## 🛠️ Built With
 
 - HTML5
-- CSS3
+- CSS3 (Flexbox + Grid)
 
 ---
 
-## 🚀 Features
+## 📁 Folder Structure
 
-- Fully responsive layout for desktop and mobile
-- Navigation bar with logo, search, and cart
-- Product grid layout with pricing and descriptions
-- Footer section with links and info
+amazon-clone/
+├── amazon_logo.png
+├── hero_image.jpg
+├── box1_image.jpg → box8_image.jpg
+├── index.html
+├── style.css
+└── README.md
 
----
-
-## 📸 Screenshots
-
-*(Add screenshots here using the following format)*  
-`![Homepage Screenshot](screenshots/home.png)`
-
----
-
-## 🧪 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/amazon-clone.git
